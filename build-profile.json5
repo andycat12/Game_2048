@@ -6,9 +6,9 @@
         "type": "HarmonyOS",
         "material": {
           "certpath": "C:\\Users\\weiha\\.ohos\\config\\default_game_2048_rCR04DdZZ8KiKc5TJrSBw9wGn1nudx3RejEGNX-O6vI=.cer",
-          "storePassword": "0000001955730C77D403514713C88C6819E867ECA092E8F223422629A80FE33ACBD5EC6E55D473565C",
+          "storePassword": "00000019D6997F5D1BA7B3F4B84385102B0314DCA77B8559BC665E8AF69AF206F587BC135701FC8B5F",
           "keyAlias": "debugKey",
-          "keyPassword": "00000019E81ED10C13C4BD93C448B519AC8A0F33DE2F23F88179E253E49BCC46C8E906DD7E0012C173",
+          "keyPassword": "00000019CB6807F66FB1E8E47676D8B45952A4F1E51FF42C39360B0A77F94786C9214D087822372E28",
           "profile": "C:\\Users\\weiha\\.ohos\\config\\default_game_2048_rCR04DdZZ8KiKc5TJrSBw9wGn1nudx3RejEGNX-O6vI=.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "C:\\Users\\weiha\\.ohos\\config\\default_game_2048_rCR04DdZZ8KiKc5TJrSBw9wGn1nudx3RejEGNX-O6vI=.p12"
