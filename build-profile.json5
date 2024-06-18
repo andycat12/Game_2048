@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\weiha\\.ohos\\config\\default_game_2048_rCR04DdZZ8KiKc5TJrSBw9wGn1nudx3RejEGNX-O6vI=.cer",
+          "storePassword": "0000001955730C77D403514713C88C6819E867ECA092E8F223422629A80FE33ACBD5EC6E55D473565C",
+          "keyAlias": "debugKey",
+          "keyPassword": "00000019E81ED10C13C4BD93C448B519AC8A0F33DE2F23F88179E253E49BCC46C8E906DD7E0012C173",
+          "profile": "C:\\Users\\weiha\\.ohos\\config\\default_game_2048_rCR04DdZZ8KiKc5TJrSBw9wGn1nudx3RejEGNX-O6vI=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\weiha\\.ohos\\config\\default_game_2048_rCR04DdZZ8KiKc5TJrSBw9wGn1nudx3RejEGNX-O6vI=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "4.0.0(10)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
